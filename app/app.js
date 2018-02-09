@@ -1,0 +1,1 @@
+angular.module('trivia-trends', ['ui.router']);
